@@ -1,0 +1,28 @@
+_repo: The-Red-Tavern_44182
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44182-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Macauley, C. R. (Charles Raymond)
+    alias: Macauley, Charles Raymond
+    birthdate: 1871
+    deathdate: 1934
+    gutenberg_agent_id: '42624'
+    url: http://www.gutenberg.org/2009/agents/42624
+description: ''
+gutenberg_issued: '2013-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Henry VII, 1485-1509 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+title: The Red Tavern
+url: http://www.gutenberg.org/ebooks/44182
