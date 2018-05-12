@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42624'
     url: http://www.gutenberg.org/2009/agents/42624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44182#The-Red-Tavern
 gutenberg_issued: '2013-11-14'
 gutenberg_type: Text
 identifiers:
